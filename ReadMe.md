@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BDI
 - Burundi
 - بوروندي
 - 布隆迪
