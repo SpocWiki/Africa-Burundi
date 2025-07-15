@@ -127,12 +127,3 @@ Capital :: [[Bujumbura]]
 [geo-lat::-3.5] 
 
 
-
-## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Africa/Africa~Central/Burundi|Burundi]] 
-- [[../../../../../_public/geo/Continent/Africa/Africa~Central/Burundi.public|Burundi.public]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Burundi.internal|Burundi.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Burundi.protect|Burundi.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Burundi.private|Burundi.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Burundi.personal|Burundi.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Burundi.secret|Burundi.secret]] 

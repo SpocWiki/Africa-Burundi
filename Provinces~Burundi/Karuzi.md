@@ -40,11 +40,18 @@ markerFolder: ./Karuzi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Karuzi|Karuzi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Karuzi.public|Karuzi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Karuzi.internal|Karuzi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Karuzi.protect|Karuzi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Karuzi.private|Karuzi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Karuzi.personal|Karuzi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Karuzi.secret|Karuzi.secret]] 
+
+### #is_/same_as :: [Karuzi](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Karuzi.md) 
+
+### #is_/same_as :: [Karuzi.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Karuzi.public.md) 
+
+### #is_/same_as :: [Karuzi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Karuzi.internal.md) 
+
+### #is_/same_as :: [Karuzi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Karuzi.protect.md) 
+
+### #is_/same_as :: [Karuzi.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Karuzi.private.md) 
+
+### #is_/same_as :: [Karuzi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Karuzi.personal.md) 
+
+### #is_/same_as :: [Karuzi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Karuzi.secret.md)
 

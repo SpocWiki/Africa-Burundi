@@ -40,11 +40,18 @@ markerFolder: ./Cankuzo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Cankuzo|Cankuzo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Cankuzo.public|Cankuzo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Cankuzo.internal|Cankuzo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Cankuzo.protect|Cankuzo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Cankuzo.private|Cankuzo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Cankuzo.personal|Cankuzo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Cankuzo.secret|Cankuzo.secret]] 
+
+### #is_/same_as :: [Cankuzo](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.md) 
+
+### #is_/same_as :: [Cankuzo.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.public.md) 
+
+### #is_/same_as :: [Cankuzo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.internal.md) 
+
+### #is_/same_as :: [Cankuzo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.protect.md) 
+
+### #is_/same_as :: [Cankuzo.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.private.md) 
+
+### #is_/same_as :: [Cankuzo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.personal.md) 
+
+### #is_/same_as :: [Cankuzo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.secret.md)
 

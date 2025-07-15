@@ -40,11 +40,18 @@ markerFolder: ./Gitega/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Gitega|Gitega]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Gitega.public|Gitega.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Gitega.internal|Gitega.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Gitega.protect|Gitega.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Gitega.private|Gitega.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Gitega.personal|Gitega.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Gitega.secret|Gitega.secret]] 
+
+### #is_/same_as :: [Gitega](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega.md) 
+
+### #is_/same_as :: [Gitega.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega.public.md) 
+
+### #is_/same_as :: [Gitega.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega.internal.md) 
+
+### #is_/same_as :: [Gitega.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega.protect.md) 
+
+### #is_/same_as :: [Gitega.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega.private.md) 
+
+### #is_/same_as :: [Gitega.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega.personal.md) 
+
+### #is_/same_as :: [Gitega.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega.secret.md)
 

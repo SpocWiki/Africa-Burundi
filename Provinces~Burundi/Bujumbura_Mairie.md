@@ -40,11 +40,18 @@ markerFolder: ./Bujumbura_Mairie/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie|Bujumbura_Mairie]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.public|Bujumbura_Mairie.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.internal|Bujumbura_Mairie.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.protect|Bujumbura_Mairie.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.private|Bujumbura_Mairie.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.personal|Bujumbura_Mairie.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.secret|Bujumbura_Mairie.secret]] 
+
+### #is_/same_as :: [Bujumbura_Mairie](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.md) 
+
+### #is_/same_as :: [Bujumbura_Mairie.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.public.md) 
+
+### #is_/same_as :: [Bujumbura_Mairie.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.internal.md) 
+
+### #is_/same_as :: [Bujumbura_Mairie.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.protect.md) 
+
+### #is_/same_as :: [Bujumbura_Mairie.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.private.md) 
+
+### #is_/same_as :: [Bujumbura_Mairie.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.personal.md) 
+
+### #is_/same_as :: [Bujumbura_Mairie.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.secret.md)
 

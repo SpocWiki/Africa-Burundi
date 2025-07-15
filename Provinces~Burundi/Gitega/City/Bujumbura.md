@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/City/Bujumbura|Bujumbura]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burundi/City/Bujumbura.public|Bujumbura.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burundi/City/Bujumbura.internal|Bujumbura.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burundi/City/Bujumbura.protect|Bujumbura.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burundi/City/Bujumbura.private|Bujumbura.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burundi/City/Bujumbura.personal|Bujumbura.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burundi/City/Bujumbura.secret|Bujumbura.secret]] 
+
+### #is_/same_as :: [Bujumbura](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.md) 
+
+### #is_/same_as :: [Bujumbura.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.public.md) 
+
+### #is_/same_as :: [Bujumbura.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.internal.md) 
+
+### #is_/same_as :: [Bujumbura.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.protect.md) 
+
+### #is_/same_as :: [Bujumbura.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.private.md) 
+
+### #is_/same_as :: [Bujumbura.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.personal.md) 
+
+### #is_/same_as :: [Bujumbura.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.secret.md)
+

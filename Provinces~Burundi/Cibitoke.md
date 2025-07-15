@@ -40,11 +40,18 @@ markerFolder: ./Cibitoke/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Cibitoke|Cibitoke]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Cibitoke.public|Cibitoke.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Cibitoke.internal|Cibitoke.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Cibitoke.protect|Cibitoke.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Cibitoke.private|Cibitoke.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Cibitoke.personal|Cibitoke.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Cibitoke.secret|Cibitoke.secret]] 
+
+### #is_/same_as :: [Cibitoke](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cibitoke.md) 
+
+### #is_/same_as :: [Cibitoke.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cibitoke.public.md) 
+
+### #is_/same_as :: [Cibitoke.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cibitoke.internal.md) 
+
+### #is_/same_as :: [Cibitoke.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cibitoke.protect.md) 
+
+### #is_/same_as :: [Cibitoke.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cibitoke.private.md) 
+
+### #is_/same_as :: [Cibitoke.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cibitoke.personal.md) 
+
+### #is_/same_as :: [Cibitoke.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cibitoke.secret.md)
 

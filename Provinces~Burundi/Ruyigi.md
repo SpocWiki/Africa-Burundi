@@ -40,11 +40,18 @@ markerFolder: ./Ruyigi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Ruyigi|Ruyigi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Ruyigi.public|Ruyigi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Ruyigi.internal|Ruyigi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Ruyigi.protect|Ruyigi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Ruyigi.private|Ruyigi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Ruyigi.personal|Ruyigi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Ruyigi.secret|Ruyigi.secret]] 
+
+### #is_/same_as :: [Ruyigi](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ruyigi.md) 
+
+### #is_/same_as :: [Ruyigi.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ruyigi.public.md) 
+
+### #is_/same_as :: [Ruyigi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ruyigi.internal.md) 
+
+### #is_/same_as :: [Ruyigi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ruyigi.protect.md) 
+
+### #is_/same_as :: [Ruyigi.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ruyigi.private.md) 
+
+### #is_/same_as :: [Ruyigi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ruyigi.personal.md) 
+
+### #is_/same_as :: [Ruyigi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ruyigi.secret.md)
 

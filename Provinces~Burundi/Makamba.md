@@ -40,11 +40,18 @@ markerFolder: ./Makamba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Makamba|Makamba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Makamba.public|Makamba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Makamba.internal|Makamba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Makamba.protect|Makamba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Makamba.private|Makamba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Makamba.personal|Makamba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Makamba.secret|Makamba.secret]] 
+
+### #is_/same_as :: [Makamba](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Makamba.md) 
+
+### #is_/same_as :: [Makamba.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Makamba.public.md) 
+
+### #is_/same_as :: [Makamba.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Makamba.internal.md) 
+
+### #is_/same_as :: [Makamba.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Makamba.protect.md) 
+
+### #is_/same_as :: [Makamba.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Makamba.private.md) 
+
+### #is_/same_as :: [Makamba.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Makamba.personal.md) 
+
+### #is_/same_as :: [Makamba.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Makamba.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Rutana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Rutana|Rutana]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Rutana.public|Rutana.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Rutana.internal|Rutana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Rutana.protect|Rutana.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Rutana.private|Rutana.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Rutana.personal|Rutana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Rutana.secret|Rutana.secret]] 
+
+### #is_/same_as :: [Rutana](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Rutana.md) 
+
+### #is_/same_as :: [Rutana.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Rutana.public.md) 
+
+### #is_/same_as :: [Rutana.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Rutana.internal.md) 
+
+### #is_/same_as :: [Rutana.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Rutana.protect.md) 
+
+### #is_/same_as :: [Rutana.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Rutana.private.md) 
+
+### #is_/same_as :: [Rutana.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Rutana.personal.md) 
+
+### #is_/same_as :: [Rutana.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Rutana.secret.md)
 

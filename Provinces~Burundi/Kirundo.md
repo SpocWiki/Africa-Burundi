@@ -40,11 +40,18 @@ markerFolder: ./Kirundo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Kirundo|Kirundo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Kirundo.public|Kirundo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Kirundo.internal|Kirundo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Kirundo.protect|Kirundo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Kirundo.private|Kirundo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Kirundo.personal|Kirundo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Kirundo.secret|Kirundo.secret]] 
+
+### #is_/same_as :: [Kirundo](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kirundo.md) 
+
+### #is_/same_as :: [Kirundo.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kirundo.public.md) 
+
+### #is_/same_as :: [Kirundo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kirundo.internal.md) 
+
+### #is_/same_as :: [Kirundo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kirundo.protect.md) 
+
+### #is_/same_as :: [Kirundo.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kirundo.private.md) 
+
+### #is_/same_as :: [Kirundo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kirundo.personal.md) 
+
+### #is_/same_as :: [Kirundo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kirundo.secret.md)
 
