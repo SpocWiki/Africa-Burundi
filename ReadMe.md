@@ -1,35 +1,36 @@
 ---
 location:
-- -3.5
-- 30
+  - -3.5
+  - 30
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26848
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Burundi
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Burundi
-- بوروندي
-- 布隆迪
-- Бурунди
-- the Republic of Burundi
-- la República de Burundi
+  - Burundi
+  - بوروندي
+  - 布隆迪
+  - Бурунди
+  - the Republic of Burundi
+  - la República de Burundi
 Languages:
-- fr-BI
-- rn
+  - fr-BI
+  - rn
 ---
 
 
