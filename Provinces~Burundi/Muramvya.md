@@ -40,17 +40,17 @@ markerFolder: ./Muramvya/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Muramvya](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya|Muramvya]] 
 
-### #is_/same_as :: [Muramvya.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya.public|Muramvya.public]] 
 
-### #is_/same_as :: [Muramvya.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya.internal|Muramvya.internal]] 
 
-### #is_/same_as :: [Muramvya.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya.protect|Muramvya.protect]] 
 
-### #is_/same_as :: [Muramvya.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya.private|Muramvya.private]] 
 
-### #is_/same_as :: [Muramvya.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya.personal|Muramvya.personal]] 
 
-### #is_/same_as :: [Muramvya.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muramvya.secret|Muramvya.secret]] 
 

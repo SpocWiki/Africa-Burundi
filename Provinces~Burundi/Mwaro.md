@@ -40,17 +40,17 @@ markerFolder: ./Mwaro/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mwaro](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro|Mwaro]] 
 
-### #is_/same_as :: [Mwaro.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro.public|Mwaro.public]] 
 
-### #is_/same_as :: [Mwaro.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro.internal|Mwaro.internal]] 
 
-### #is_/same_as :: [Mwaro.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro.protect|Mwaro.protect]] 
 
-### #is_/same_as :: [Mwaro.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro.private|Mwaro.private]] 
 
-### #is_/same_as :: [Mwaro.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro.personal|Mwaro.personal]] 
 
-### #is_/same_as :: [Mwaro.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Mwaro.secret|Mwaro.secret]] 
 

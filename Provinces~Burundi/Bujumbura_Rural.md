@@ -40,17 +40,17 @@ markerFolder: ./Bujumbura_Rural/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bujumbura_Rural](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural|Bujumbura_Rural]] 
 
-### #is_/same_as :: [Bujumbura_Rural.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural.public|Bujumbura_Rural.public]] 
 
-### #is_/same_as :: [Bujumbura_Rural.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural.internal|Bujumbura_Rural.internal]] 
 
-### #is_/same_as :: [Bujumbura_Rural.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural.protect|Bujumbura_Rural.protect]] 
 
-### #is_/same_as :: [Bujumbura_Rural.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural.private|Bujumbura_Rural.private]] 
 
-### #is_/same_as :: [Bujumbura_Rural.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural.personal|Bujumbura_Rural.personal]] 
 
-### #is_/same_as :: [Bujumbura_Rural.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Rural.secret|Bujumbura_Rural.secret]] 
 

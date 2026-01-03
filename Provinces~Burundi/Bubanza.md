@@ -40,17 +40,17 @@ markerFolder: ./Bubanza/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bubanza](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza|Bubanza]] 
 
-### #is_/same_as :: [Bubanza.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza.public|Bubanza.public]] 
 
-### #is_/same_as :: [Bubanza.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza.internal|Bubanza.internal]] 
 
-### #is_/same_as :: [Bubanza.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza.protect|Bubanza.protect]] 
 
-### #is_/same_as :: [Bubanza.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza.private|Bubanza.private]] 
 
-### #is_/same_as :: [Bubanza.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza.personal|Bubanza.personal]] 
 
-### #is_/same_as :: [Bubanza.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bubanza.secret|Bubanza.secret]] 
 

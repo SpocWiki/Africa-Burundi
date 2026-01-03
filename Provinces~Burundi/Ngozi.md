@@ -40,17 +40,17 @@ markerFolder: ./Ngozi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ngozi](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi|Ngozi]] 
 
-### #is_/same_as :: [Ngozi.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi.public|Ngozi.public]] 
 
-### #is_/same_as :: [Ngozi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi.internal|Ngozi.internal]] 
 
-### #is_/same_as :: [Ngozi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi.protect|Ngozi.protect]] 
 
-### #is_/same_as :: [Ngozi.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi.private|Ngozi.private]] 
 
-### #is_/same_as :: [Ngozi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi.personal|Ngozi.personal]] 
 
-### #is_/same_as :: [Ngozi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Ngozi.secret|Ngozi.secret]] 
 

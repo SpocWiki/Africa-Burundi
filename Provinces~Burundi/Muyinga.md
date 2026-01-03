@@ -40,17 +40,17 @@ markerFolder: ./Muyinga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Muyinga](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga|Muyinga]] 
 
-### #is_/same_as :: [Muyinga.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga.public|Muyinga.public]] 
 
-### #is_/same_as :: [Muyinga.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga.internal|Muyinga.internal]] 
 
-### #is_/same_as :: [Muyinga.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga.protect|Muyinga.protect]] 
 
-### #is_/same_as :: [Muyinga.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga.private|Muyinga.private]] 
 
-### #is_/same_as :: [Muyinga.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga.personal|Muyinga.personal]] 
 
-### #is_/same_as :: [Muyinga.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Muyinga.secret|Muyinga.secret]] 
 

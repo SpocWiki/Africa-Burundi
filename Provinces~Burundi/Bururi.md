@@ -40,17 +40,17 @@ markerFolder: ./Bururi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bururi](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi|Bururi]] 
 
-### #is_/same_as :: [Bururi.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi.public|Bururi.public]] 
 
-### #is_/same_as :: [Bururi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi.internal|Bururi.internal]] 
 
-### #is_/same_as :: [Bururi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi.protect|Bururi.protect]] 
 
-### #is_/same_as :: [Bururi.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi.private|Bururi.private]] 
 
-### #is_/same_as :: [Bururi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi.personal|Bururi.personal]] 
 
-### #is_/same_as :: [Bururi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bururi.secret|Bururi.secret]] 
 

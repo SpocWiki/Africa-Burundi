@@ -40,17 +40,17 @@ markerFolder: ./Cankuzo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cankuzo](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo|Cankuzo]] 
 
-### #is_/same_as :: [Cankuzo.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.public|Cankuzo.public]] 
 
-### #is_/same_as :: [Cankuzo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.internal|Cankuzo.internal]] 
 
-### #is_/same_as :: [Cankuzo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.protect|Cankuzo.protect]] 
 
-### #is_/same_as :: [Cankuzo.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.private|Cankuzo.private]] 
 
-### #is_/same_as :: [Cankuzo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.personal|Cankuzo.personal]] 
 
-### #is_/same_as :: [Cankuzo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Cankuzo.secret|Cankuzo.secret]] 
 

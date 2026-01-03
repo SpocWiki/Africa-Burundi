@@ -120,17 +120,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bujumbura](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura|Bujumbura]] 
 
-### #is_/same_as :: [Bujumbura.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.public|Bujumbura.public]] 
 
-### #is_/same_as :: [Bujumbura.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.internal|Bujumbura.internal]] 
 
-### #is_/same_as :: [Bujumbura.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.protect|Bujumbura.protect]] 
 
-### #is_/same_as :: [Bujumbura.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.private|Bujumbura.private]] 
 
-### #is_/same_as :: [Bujumbura.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.personal|Bujumbura.personal]] 
 
-### #is_/same_as :: [Bujumbura.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Gitega/City/Bujumbura.secret|Bujumbura.secret]] 
 

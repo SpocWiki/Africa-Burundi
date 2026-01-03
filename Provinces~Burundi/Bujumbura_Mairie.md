@@ -40,17 +40,17 @@ markerFolder: ./Bujumbura_Mairie/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bujumbura_Mairie](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie|Bujumbura_Mairie]] 
 
-### #is_/same_as :: [Bujumbura_Mairie.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.public|Bujumbura_Mairie.public]] 
 
-### #is_/same_as :: [Bujumbura_Mairie.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.internal|Bujumbura_Mairie.internal]] 
 
-### #is_/same_as :: [Bujumbura_Mairie.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.protect|Bujumbura_Mairie.protect]] 
 
-### #is_/same_as :: [Bujumbura_Mairie.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.private|Bujumbura_Mairie.private]] 
 
-### #is_/same_as :: [Bujumbura_Mairie.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.personal|Bujumbura_Mairie.personal]] 
 
-### #is_/same_as :: [Bujumbura_Mairie.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Bujumbura_Mairie.secret|Bujumbura_Mairie.secret]] 
 

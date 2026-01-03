@@ -40,17 +40,17 @@ markerFolder: ./Kayanza/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kayanza](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza|Kayanza]] 
 
-### #is_/same_as :: [Kayanza.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza.public|Kayanza.public]] 
 
-### #is_/same_as :: [Kayanza.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza.internal|Kayanza.internal]] 
 
-### #is_/same_as :: [Kayanza.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza.protect|Kayanza.protect]] 
 
-### #is_/same_as :: [Kayanza.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza.private|Kayanza.private]] 
 
-### #is_/same_as :: [Kayanza.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza.personal|Kayanza.personal]] 
 
-### #is_/same_as :: [Kayanza.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Burundi/Provinces~Burundi/Kayanza.secret|Kayanza.secret]] 
 
