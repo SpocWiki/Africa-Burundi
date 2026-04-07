@@ -25,18 +25,18 @@ official_name:
   - Usumbura
   - Bujumbura
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/BI-Bujumbura.png
-twinned_administrative_body: "[[_Standards/WikiData/WD~Hefei,185684]]"
+twinned_administrative_body: "[[_Standards/WikiData/WD~Hefei,185684|WD~Hefei,185684]]"
 capital_of:
-  - "[[_Standards/WikiData/WD~Ruanda_Urundi,590743]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Burundi,1192936]]"
-  - "[[_Standards/WikiData/WD~Bujumbura_Mairie,1816580]]"
-  - "[[_Standards/WikiData/WD~Usumbura_District,34345921]]"
-  - "[[_Standards/WikiData/WD~Burundi,967]]"
-shares_border_with: "[[_Standards/WikiData/WD~Bujumbura_Rural_Province,645043]]"
+  - "[[_Standards/WikiData/WD~Ruanda_Urundi,590743|WD~Ruanda_Urundi,590743]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Burundi,1192936|WD~Kingdom_of_Burundi,1192936]]"
+  - "[[_Standards/WikiData/WD~Bujumbura_Mairie,1816580|WD~Bujumbura_Mairie,1816580]]"
+  - "[[_Standards/WikiData/WD~Usumbura_District,34345921|WD~Usumbura_District,34345921]]"
+  - "[[_Standards/WikiData/WD~Burundi,967|WD~Burundi,967]]"
+shares_border_with: "[[_Standards/WikiData/WD~Bujumbura_Rural_Province,645043|WD~Bujumbura_Rural_Province,645043]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Bujumbura_Mairie,1816580]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Bujumbura_Mairie,1816580|WD~Bujumbura_Mairie,1816580]]"
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Bujumbura%20from%20above%20%286908379897%29.jpg
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Bujumbura%2C%20night%20traffic.jpg
 X_Twitter_username: mairiebuja
@@ -46,14 +46,14 @@ inception:
   - 1871-01-01T00:00:00Z
 time_of_earliest_written_record: 1889-01-01T00:00:00Z
 coordinate_location: Point(29.361111111 -3.3825)
-country: "[[_Standards/WikiData/WD~Burundi,967]]"
-part_of: "[[_Standards/WikiData/WD~Burundi,967]]"
+country: "[[_Standards/WikiData/WD~Burundi,967|WD~Burundi,967]]"
+part_of: "[[_Standards/WikiData/WD~Burundi,967|WD~Burundi,967]]"
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~Kirundi,33583]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Lake_Tanganyika,5511]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+  - "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~French,150|WD~French,150]]"
+  - "[[_Standards/WikiData/WD~Kirundi,33583|WD~Kirundi,33583]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Lake_Tanganyika,5511|WD~Lake_Tanganyika,5511]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]"
 elevation_above_sea_level: 774
 local_dialing_code:
   - "2222"
@@ -75,7 +75,7 @@ P8189: "987007564218605171"
 UN_LOCODE: BIBJM
 Commons_category: Bujumbura
 Libris_URI: dbqsr5gx06rffb7
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Bujumbura,39091140]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Bujumbura,39091140|WD~timeline_of_Bujumbura,39091140]]"
 ---
 
 # [[Bujumbura]] 
