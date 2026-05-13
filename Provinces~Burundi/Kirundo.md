@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kirundo/
 markerFolder: ./Kirundo/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

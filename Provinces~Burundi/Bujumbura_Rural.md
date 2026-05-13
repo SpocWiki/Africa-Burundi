@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bujumbura_Rural/
 markerFolder: ./Bujumbura_Rural/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

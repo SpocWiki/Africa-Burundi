@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bujumbura_Mairie/
 markerFolder: ./Bujumbura_Mairie/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

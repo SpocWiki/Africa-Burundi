@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bubanza/
 markerFolder: ./Bubanza/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

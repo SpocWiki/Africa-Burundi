@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kayanza/
 markerFolder: ./Kayanza/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
